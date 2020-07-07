@@ -3,4 +3,8 @@ Change Log
 
 0.0.1 (7/5/2020)
 ----------------
-- First Release
+- First Release.
+
+0.0.2 (7/7/2020)
+----------------
+- Official release to PyPi and a few things added.
