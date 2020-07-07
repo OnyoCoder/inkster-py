@@ -24,6 +24,7 @@ Here are some things that you can contact us with.
 
 Email: `InksterPY@protonmail.com`
 Discord Server: `https://discord.gg/HUFtMsz`
+Documentation: `https://onyocoder.github.io/inkster-documentation/`
 
 ## License
 
