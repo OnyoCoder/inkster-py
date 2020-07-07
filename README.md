@@ -14,8 +14,8 @@ pip install inkster
 
 Here are some features for inkster.
 
+- Easy
 - Educational
-- Normal
 - More coming soon.
 
 ### Socials/Contacts
