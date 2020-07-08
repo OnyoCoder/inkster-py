@@ -11,4 +11,7 @@ class Normal:
     def say(self, message):
         return message
 
+    def log(self, logged):
+        return logged
+
 Normal = Normal()
