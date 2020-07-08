@@ -1,5 +1,7 @@
 # Welcome to Inkster!
 
+Inkster is a discord API wrapper with a few extensions such as math, education and more.
+
 ## Installation
 
 If you would like to install inkster just run the command in a command prompt:
@@ -22,10 +24,17 @@ Here are some features for inkster.
 
 Here are some things that you can contact us with.
 
-Email: `InksterPY@protonmail.com`
-Discord Server: `https://discord.gg/HUFtMsz`
-Documentation: `https://onyocoder.github.io/inkster-documentation/`
-PyPi: `Coming soon.`
+- Email: `InksterPY@protonmail.com`
+- Discord Server: `https://discord.gg/HUFtMsz`
+- Documentation: `https://onyocoder.github.io/inkster-documentation/`
+- PyPi: `Coming soon.`
+
+### Contributors
+
+- Onyo#8502 -> Creator of Inkster.
+- Lumi#1930 -> Python Version Contributor.
+- Abxy#4576 -> Python & JS Version Contributor.
+- K.M Ahnaf Zamil#4346 -> Python Version Contributor.
 
 ## License
 
