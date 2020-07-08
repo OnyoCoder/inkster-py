@@ -31,10 +31,10 @@ Here are some things that you can contact us with.
 
 ### Contributors
 
-- Onyo#8502 -> Creator of Inkster.
-- Lumi#1930 -> Python Version Contributor.
-- Abxy#4576 -> Python & JS Version Contributor.
-- K.M Ahnaf Zamil#4346 -> Python Version Contributor.
+- Onyo#8502 -> Creator of Inkster. (Github: OnyoCoder)
+- Lumi#1930 -> Python Version Contributor. (Github: Lumi-Sepiolidae) 
+- Abxy#4576 -> Python & JS Version Contributor. (Github: AbxyPlayz) 
+- K.M Ahnaf Zamil#4346 -> Python Version Contributor. (Github: ahnaf-zamil) 
 
 ## License
 
