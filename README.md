@@ -13,6 +13,7 @@ pip install inkster
 ```
 
 **JavaScript**
+
 ```bash
 npm install inkster-js
 ```
