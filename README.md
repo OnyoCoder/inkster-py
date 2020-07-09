@@ -31,7 +31,7 @@ Here are some features for inkster.
 - Discord(Coming Soon.)
 - More coming soon.
 
-### Socials/Contacts
+### Socials/Links
 
 Here are some things that you can contact us with.
 
