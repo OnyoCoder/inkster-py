@@ -5,8 +5,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="inkster-OnyoCoder", # Replace with your own username
-    version="1.0.1",
+    name="inkster", # Replace with your own username
+    version="1.0.3",
     author="OnyoCoder",
     author_email="InksterPY@protonmail.com",
     description="Inkster is possible for many things.",

@@ -10,7 +10,10 @@ inkster/__init__.py
 inkster/__main__.py
 inkster/easy.py
 inkster/educational.py
-inkster_OnyoCoder.egg-info/PKG-INFO
+inkster.egg-info/PKG-INFO
+inkster.egg-info/SOURCES.txt
+inkster.egg-info/dependency_links.txt
+inkster.egg-info/top_level.txt
 inkster_OnyoCoder.egg-info/SOURCES.txt
 inkster_OnyoCoder.egg-info/dependency_links.txt
 inkster_OnyoCoder.egg-info/top_level.txt

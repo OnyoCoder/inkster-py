@@ -34,7 +34,7 @@ Here are some things that you can contact us with.
 - Email: `InksterPY@protonmail.com`
 - Discord Server: `https://discord.gg/HUFtMsz`
 - Documentation: `https://onyocoder.github.io/inkster-documentation/`
-- PyPi: `https://pypi.org/project/inkster-OnyoCoder/1.0.1/`
+- PyPi: `https://pypi.org/project/inkster/`
 - npmjs: `https://www.npmjs.com/package/inkster-js`
 
 ### Contributors
