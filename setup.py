@@ -9,10 +9,10 @@ setuptools.setup(
     version="1.0.1",
     author="OnyoCoder",
     author_email="InksterPY@protonmail.com",
-    description="A package used for making discord bots and more.",
+    description="Inkster is possible for many things.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/OnyoCoder/inkster-py",
     project_urls={
         "Discord": "https://discord.gg/HUFtMsz"
     },
