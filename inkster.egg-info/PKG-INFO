@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: inkster-OnyoCoder
-Version: 1.0.1
+Name: inkster
+Version: 1.0.3
 Summary: Inkster is possible for many things.
 Home-page: https://github.com/OnyoCoder/inkster-py
 Author: OnyoCoder
@@ -43,7 +43,7 @@ Description: # Welcome to Inkster!
         - Email: `InksterPY@protonmail.com`
         - Discord Server: `https://discord.gg/HUFtMsz`
         - Documentation: `https://onyocoder.github.io/inkster-documentation/`
-        - PyPi: `Coming soon.`
+        - PyPi: `https://pypi.org/project/inkster-OnyoCoder/1.0.1/`
         - npmjs: `https://www.npmjs.com/package/inkster-js`
         
         ### Contributors
