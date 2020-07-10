@@ -1,1 +1,2 @@
-__author__ = "Onyo"
+__author__ = "OnyoCoder"
+__Contributors__ = "AbxyPlayz, Lumi-Sepiolidae, ahnaf-zamil"
