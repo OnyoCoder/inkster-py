@@ -6,13 +6,14 @@ Inkster is a discord API wrapper with a few extensions such as math, education a
 
 If you would like to install inkster just run the command in a command prompt:
 
-**PYTHON**
+**Python**
 
 ```bash
 pip install inkster
 ```
 
 **JavaScript**
+
 ```bash
 npm install inkster-js
 ```
@@ -30,7 +31,7 @@ Here are some features for inkster.
 - Discord(Coming Soon.)
 - More coming soon.
 
-### Socials/Contacts
+### Socials/Links
 
 Here are some things that you can contact us with.
 
