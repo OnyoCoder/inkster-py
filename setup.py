@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="inkster-OnyoCoder", # Replace with your own username
-    version="0.0.1",
+    version="1.0.1",
     author="OnyoCoder",
     author_email="InksterPY@protonmail.com",
     description="A package used for making discord bots and more.",
