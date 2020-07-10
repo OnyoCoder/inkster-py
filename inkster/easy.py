@@ -1,7 +1,6 @@
 #Imports
 import random
 # Variables
-number2 = random.randint(1, 100)
 # Normal
 class Normal:
 
