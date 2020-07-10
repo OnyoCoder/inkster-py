@@ -8,9 +8,6 @@ class Normal:
     def hello(self, name):
         print("Hello " + name + ".")
 
-    def say(self, message):
-        return message
-
     def log(self, logged):
         return logged
 
